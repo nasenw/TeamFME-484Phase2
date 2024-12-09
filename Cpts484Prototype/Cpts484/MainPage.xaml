@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cpts484.MainPage">
+
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="10"
+        VerticalOptions="Start">
+
+        <Button Text="Switch Views" Clicked="OnSwitchViews"></Button>
+
+        <Label FontSize="Large" HorizontalOptions="Center">Caretaker Setup Menu</Label>
+
+        <Label>Enter caretaker first name:</Label>
+        <Entry x:Name="CaretakerFname" Placeholder="First name"/>
+
+        <Label>Enter caretaker last name:</Label>
+        <Entry x:Name="CaretakerLname" Placeholder="Last name"/>
+
+        <Label>Enter caretaker email:</Label>
+        <Entry x:Name="CaretakerEmail" Placeholder="Email"/>
+
+        <Label>Enter caretaker phone number:</Label>
+        <Entry x:Name="CaretakerPhone" Placeholder="Phone Number"/>
+
+        <Button Text="Save" Clicked="OnCaretakerSave"></Button>
+
+
+    </VerticalStackLayout>
+
+</ContentPage>

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\cpts484.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\cpts484.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\navigationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\navigationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\cpts484.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\cpts484.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|c:\\users\\nasen\\onedrive\\desktop\\cpts484\\cpts484\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BC441-612E-47A3-A06E-831CFD3D8197}|Cpts484\\Cpts484.csproj|solutionrelative:cpts484\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cpts484",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\Cpts484.csproj",
+              "RelativeDocumentMoniker": "Cpts484\\Cpts484.csproj",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\Cpts484.csproj",
+              "RelativeToolTip": "Cpts484\\Cpts484.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T22:25:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cpts484.csproj",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\Cpts484.csproj",
+              "RelativeDocumentMoniker": "Cpts484\\Cpts484.csproj",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\Cpts484.csproj",
+              "RelativeToolTip": "Cpts484\\Cpts484.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T21:41:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\NavigationPage.xaml",
+              "RelativeDocumentMoniker": "Cpts484\\NavigationPage.xaml",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\NavigationPage.xaml",
+              "RelativeToolTip": "Cpts484\\NavigationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T20:40:40.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Cpts484\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\AppShell.xaml.cs",
+              "RelativeToolTip": "Cpts484\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:39:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Cpts484\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\AppShell.xaml",
+              "RelativeToolTip": "Cpts484\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T20:39:20.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Cpts484\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\MainPage.xaml",
+              "RelativeToolTip": "Cpts484\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T08:23:11.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Cpts484\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\nasen\\OneDrive\\Desktop\\Cpts484\\Cpts484\\MainPage.xaml.cs",
+              "RelativeToolTip": "Cpts484\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:23:09.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
